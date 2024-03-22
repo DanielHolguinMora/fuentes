@@ -1,0 +1,38 @@
+body{
+    max-width: 1200px;
+    background: #000;
+    margin: auto;
+    font-size: clamp(2em, 1vw, 3em);
+}
+
+h1{
+    color: rgb(248,175,80);
+    font-family: 'Artifika', cursive;
+}
+
+h3{
+    color: rgb(250,237,0);
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+    color: rgb(41, 152, 172);
+    font-family: 'IM Fell DW', cursive;
+}
+
+.caja_img{
+    width: 90%;
+    margin: auto;
+}
+
+.texto2 p{
+    color: rgb(172, 123, 32);
+    font-family: 'Vast Shadow', cursive;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Truculenta', cursive;
+    color: rgb(165,250,6);
+    font-size: 1em;
+}
